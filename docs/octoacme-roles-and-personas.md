@@ -229,4 +229,3 @@ Customer / User Advocates represent the end-user perspective and operational int
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The expanded set helps teams clarify ownership, improve accountability, and support better cross-functional decision-making throughout the project lifecycle.
-
